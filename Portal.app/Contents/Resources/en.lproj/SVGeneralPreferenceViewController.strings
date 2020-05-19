@@ -1,0 +1,24 @@
+
+/* Class = "NSTextFieldCell"; title = "Global Drag Gesture Modifier: "; ObjectID = "J4g-4K-Tef"; */
+"J4g-4K-Tef.title" = "Global Drag Gesture Modifier: ";
+
+/* Class = "NSButtonCell"; title = "Enable Global Drag Gesture"; ObjectID = "JR6-mH-6vI"; */
+"JR6-mH-6vI.title" = "Global Drag Gesture";
+
+/* Class = "NSButtonCell"; title = "Startup At Launch"; ObjectID = "KLl-ki-HX1"; */
+"KLl-ki-HX1.title" = "Startup At Launch";
+
+/* Class = "NSTextFieldCell"; title = "Show Portal Commands Panel:"; ObjectID = "Yzc-9O-uut"; */
+"Yzc-9O-uut.title" = "Global Shortcut:";
+
+/* Class = "NSBox"; title = "Shortcut"; ObjectID = "df6-60-iXZ"; */
+"df6-60-iXZ.title" = "Shortcut";
+
+/* Class = "NSBox"; title = "General"; ObjectID = "kjB-Kh-9cO"; */
+"kjB-Kh-9cO.title" = "General";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "pXn-jx-mB3"; */
+"pXn-jx-mB3.title" = "None";
+
+/* Class = "NSMenuItem"; title = "⌘"; ObjectID = "wqt-Hh-vbl"; */
+"wqt-Hh-vbl.title" = "⌘";
